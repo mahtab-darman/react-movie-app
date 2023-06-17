@@ -1,6 +1,10 @@
 # react-movie
 
     Responsive React Movies App With API
+    
+# How to run ?
+1) install npm package (npm isntall)
+2) start the project ( npm start ) 
 
 # Resource
 
